@@ -1,0 +1,4 @@
+﻿"ID_Client","First_Name","Last_Name","Packet_Price_Sum","SumOfPacket"
+"1","Client 1","pClient 1","2100","12"
+"2","Client 2","pClient 2","2700","27"
+"3","Client 3","pClient 3","5200","16"
